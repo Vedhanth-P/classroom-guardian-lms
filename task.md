@@ -1,0 +1,23 @@
+# Tasks
+
+- [x] Project Setup & Config
+  - [x] Write `frontend/package.json`
+  - [x] Write `frontend/vite.config.js`
+  - [x] Write `frontend/index.html`
+  - [x] Initialize packages (`npm install`)
+- [x] CSS Style System
+  - [x] Write `frontend/src/styles/globals.css` with core themes, glassmorphism CSS, flex/grid rules, and custom animations
+- [x] Core React Framework files
+  - [x] Write `frontend/src/main.jsx` React entry point
+  - [x] Write `frontend/src/App.jsx` main layout and portal role/tab manager
+- [x] Shared Components
+  - [x] Create `frontend/src/components/Toast.jsx`
+- [x] Student Portal
+  - [x] Create `frontend/src/portals/student/StudentPortal.jsx` with full pages (Dashboard, Attendance, Performance, AI tips, Certificates, Leaderboard)
+- [x] Lecturer Portal
+  - [x] Create `frontend/src/portals/lecturer/LecturerPortal.jsx` with Seat Map, QR generate, Manual Entry logs, App Control and focus metrics
+- [x] Parent Portal
+  - [x] Create `frontend/src/portals/parent/ParentPortal.jsx` with summary dashboards, smart chat with AI replies, reports, alerts and certificate copies
+- [x] Verification & Validation
+  - [x] Run `npm run build`
+  - [ ] Launch `npm run dev` to verify runtime correctness

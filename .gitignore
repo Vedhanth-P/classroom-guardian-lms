@@ -1,0 +1,7 @@
+node_modules/
+dist/
+frontend/dist/
+backend/src/data.json
+.DS_Store
+.env
+brain/
